@@ -1,3 +1,6 @@
+The ecommerce project was developed using JavaFX for the frontend, Java for the backend, and SQL for the database management
+
+
 ![Screenshot (126)](https://github.com/Govardhan-2000/E-commerce/assets/120554308/ad67b752-01ee-4074-8627-3e189b56f240)
 ![Screenshot (127)](https://github.com/Govardhan-2000/E-commerce/assets/120554308/1874aa91-a541-40c0-85ac-5fb4b15577c4)
 ![Screenshot (128)](https://github.com/Govardhan-2000/E-commerce/assets/120554308/e962cbca-5f1e-45a1-b61e-c7fbef31d9ed)
